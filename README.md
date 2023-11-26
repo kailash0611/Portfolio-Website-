@@ -1,4 +1,4 @@
-<img src="download.gig" />
+<img src="download.gif"/>
 
 # Portfolio Website
 
