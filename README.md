@@ -1,3 +1,5 @@
+<img src="download.gig" />
+
 # Portfolio Website
 
 Welcome to my portfolio website! The portfolio is designed and implemented using HTML, CSS, and JavaScript to provide an interactive and visually appealing user experience.
